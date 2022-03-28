@@ -1,2 +1,6 @@
 # Python-Bot-Example
-this is an example of discord bot with the language python
+
+## Configuration
+- go to the file `config.py` and replace the elements
+
+Enjoy !
